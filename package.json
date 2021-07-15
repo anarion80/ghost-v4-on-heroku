@@ -5,7 +5,7 @@
   "main": "thelovekesh.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thelovekesh/ghost-v4-on-heroku.git"
+    "url": "git+https://github.com/anarion80/ghost-v4-on-heroku.git"
   },
   "keywords": [
     "ghost",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/thelovekesh/ghost-v4-on-heroku/issues"
   },
-  "homepage": "https://github.com/thelovekesh/ghost-v4-on-heroku#readme",
+  "homepage": "https://github.com/anarion80/ghost-v4-on-heroku#readme",
   "engines": {
     "node": "12.X"
   },
